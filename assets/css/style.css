@@ -30,9 +30,10 @@ h1 {
 }
 
 #menu li {
-    float: right; 
+    float: right;
     margin-right: 30px; 
     padding: 30px; 
+    padding-left: 100px;
 }
 
 #menu a {
@@ -52,49 +53,42 @@ h1 {
     border-bottom: 1px solid black;
 }
 
-
-.pasta-image {
-    height: 600px;
-    width: 50%;
-    background: url("../images/pasta.gif");
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: absolute; right: 0%;
-    margin-top: 10%;
+.img-responsive {
+    height: 600px; 
+    width: 100%;
+    display: block;
 }
 
-.burger-image {
-    height: 300px;
-    width: 25%;
-    background: url("../images/burger.gif");
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: absolute; right: 0%;
-    margin-top: 10%;
+#order {
+    margin-top: 1rem;
 }
 
-.box-image {
-    height: 450px;
-    width: 50%;
-    background: url("../images/box.gif");
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: absolute; left: 0%;
-    margin-top: 10%;
+/* ----------------------------------------Footer */
+
+footer {
+    min-height: 120px;
 }
 
-.mealbox-image {
-    height: 450px;
-    width: 50%;
-    background: url("../images/mealbox.gif");
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: absolute; left: 0%; 
-    margin-top: 20%;
+.social-links {
+    padding-top: 30px; 
+    text-align: center;
 }
 
-.scroll {
-    overflow-y: auto;
-    overflow-x: hidden; 
+.social-links li a i {
+    width: 40px;
+    height: 40px;
+    padding: 15px 0 0 15px;
+    font-size: 30px;
+    color: black; 
+    display: block; 
+    margin-right: 4rem;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
 }
 
+.social-links li a i:hover {
+    color: #5F9EA0;
+    text-decoration-line: none; 
+}
