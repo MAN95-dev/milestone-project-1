@@ -78,4 +78,8 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### Acknowledgements
 
+<<<<<<< HEAD
 - I received inspiration for this project from X
+=======
+- I received inspiration for this project from X
+>>>>>>> 7ef07680e189607784f175c8aee351c6ee352d5a
