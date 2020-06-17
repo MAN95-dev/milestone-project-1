@@ -1,4 +1,12 @@
-# Your Project's Name
+# Very Veggie - Milestone Project 1 
+
+This project was created as the first of four milestone projects for Code Institute. 
+The challenge was to create a static front-end site for a cooking
+
+This project was created as an End Of Module Project for the Code Institute. 
+The challenge was to create a front end only website for a band. The idea was to showcase the skills we've learned so far in HTML and CSS. 
+This project was built as a fan page for followers of The Monkees. The intended purpose was to showcase the band's music and to inform users
+ that they are available to perform at special events. It was also built with the hope of attracting new fans to the band.
 
 One or two paragraphs providing an overview of your project.
 
@@ -8,9 +16,10 @@ Essentially, this part is your sales pitch.
  
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+##### User Stories
 - As a user type, I want to perform an action, so that I can achieve a goal.
 
+#### Wireframes
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
 ## Features
@@ -31,6 +40,11 @@ In addition, you may also use this section to discuss plans for additional featu
 ## Technologies Used
 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+- [html5]
+    -
+- [CSS3]
+
+- [bootstrap]
 
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
@@ -74,9 +88,16 @@ In addition, if it is not obvious, you should also describe how to run your code
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
 ### Media
-- The photos used in this site were obtained from ...
+- The panoramic photo used in index.html was obtained from
+- The panoramic image used in subscribe.html was obtained from
+- The photos used in index.html and subsribe. html were obtained from [TescoRealFood](https://realfood.tesco.com/gallery/10-healthy-vegetarian-recipes.html)
+- The photo of the author was obtained from my personal photos
+- The panoramic photo used in about.html was obtained from [OliveMagazine](https://www.olivemagazine.com/recipes/vegan/healthy-vegan-recipes-under-350-calories/)
+- The photos used in recipes.html were obtained from [PickupLimes](https://www.pickuplimes.com/)
+- 
 
 ### Acknowledgements
+
 
 <<<<<<< HEAD
 - I received inspiration for this project from X
