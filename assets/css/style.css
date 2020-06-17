@@ -51,7 +51,7 @@ nav li {
 
 .navbar-brand {
     font-family: "Chelsea Market", cursive;
-    font-size: 400%;
+    font-size: 250%;
     letter-spacing: 5px;
 }
 
@@ -110,7 +110,7 @@ footer {
     font-size: 30px;
     color: black; 
     display: block; 
-    margin-right: 4rem;
+    margin-right: 2rem;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -191,6 +191,10 @@ footer {
     max-width: 100%;
 }
 
+.bg-about {
+    margin-left: 50px; 
+}
+
 /* ----------------------------------------Recipes */
 
 .bg-heading h2 {
@@ -250,14 +254,14 @@ body, html {
     background-image: url('../images/veg.jpg');
     max-width: 100%;
     height: 500px;
-    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    margin-left: 2px; 
 }
 
 .container {
-    margin: 20px;
+    margin-top: 60px; 
     max-width: 600px;
     padding: 16px;
     background-color: #F8F8FF;
