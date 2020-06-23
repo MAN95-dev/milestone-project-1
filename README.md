@@ -27,11 +27,11 @@ can be used to further explore.
 
 #### Wireframes
 
-Home ![Home](/wireframes/homepage.jpg/)
-About ![About](/wireframes/about.jpg/)
-Recipes ![Recipes](/wireframes/Recipes.jpg/)
-Subscribe ![Subscribe](/wireframes/subscribe.jpg/)
-Footer ![Footer](/wireframes/footer.jpg/)
+- Home
+- About 
+- Recipe
+- Subscribe
+- Footer
 
 ## Features
  
@@ -58,10 +58,10 @@ Footer ![Footer](/wireframes/footer.jpg/)
 
 ## Technologies Used
 
-- [html5] 
+- html5
  - The project uses **html5** to create the layout for the website. 
 
-- [CSS3]
+- CSS3
  - The project uses **CSS3** to style all content. 
 
 - [bootstrap](https://getbootstrap.com/)
