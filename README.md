@@ -27,7 +27,7 @@ can be used to further explore.
 
 #### Wireframes
 
-- Home
+- Home ![Home](homepage.jpg)
 - About 
 - Recipe
 - Subscribe
