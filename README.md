@@ -28,10 +28,10 @@ can be used to further explore.
 #### Wireframes
 
 - Home ![Home](homepage.jpg)
-- About 
-- Recipe
-- Subscribe
-- Footer
+- About ![About](about.jpg)
+- Recipes ![Recipes](recipes.jpg)
+- Subscribe ![Subscribe](subscribe.jpg)
+-  Footer ![Footer](footer.jpg)
 
 ## Features
  
