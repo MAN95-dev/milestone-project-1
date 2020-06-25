@@ -27,11 +27,11 @@ can be used to further explore.
 
 #### Wireframes
 
-Home ![Home](homepage.png)
-About ![About](about.png)
-Recipes ![Recipes](recipes.png)
+Home ![Home](/assets/wireframes/homepage.jpg)
+About ![About](/assets/wireframes/about.jpg)
+Recipes ![Recipes]((/assets/wireframes/recipes.jpg)
 Subscribe ![Subscribe](/assets/wireframes/subscribe.jpg)
-Footer ![Footer](footer.png)
+Footer ![Footer]((/assets/wireframes/footer.jpg)
 
 ## Features
  
