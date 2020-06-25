@@ -29,9 +29,9 @@ can be used to further explore.
 
 Home ![Home](/assets/wireframes/homepage.jpg)
 About ![About](/assets/wireframes/about.jpg)
-Recipes ![Recipes]((/assets/wireframes/recipes.jpg)
+Recipes ![Recipes](/assets/wireframes/recipes.jpg)
 Subscribe ![Subscribe](/assets/wireframes/subscribe.jpg)
-Footer ![Footer]((/assets/wireframes/footer.jpg)
+Footer ![Footer](/assets/wireframes/footer.jpg)
 
 ## Features
  
