@@ -30,7 +30,7 @@ can be used to further explore.
 Home ![Home](homepage.png)
 About ![About](about.png)
 Recipes ![Recipes](recipes.png)
-Subscribe ![Subscribe](subscribe.png)
+Subscribe ![Subscribe](/assets/wireframes/subscribe.jpg)
 Footer ![Footer](footer.png)
 
 ## Features
